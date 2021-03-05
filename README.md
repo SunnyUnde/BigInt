@@ -1,6 +1,6 @@
 # BigInt
 BigInt data type for C++(header file).
-While solving problems with big numbers or which requires large computation in C++ one faces the issue of overflow. This type of overflow is not faced in languages like JAVA and PYTHON. This cod contains a similar data type which doesn't get overflow.
+While solving problems with big numbers or which requires large computation in C++ one faces the issue of overflow. This type of overflow is not faced in languages like JAVA and PYTHON. This header file contains a similar data type which doesn't get overflow.
 
 It has all the operations of the type number. 
 ## Funcanalites provided are:
